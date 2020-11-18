@@ -1,0 +1,9 @@
+numpy
+pandas
+networkx
+pyvis
+matplotlib
+mpld3
+scipy
+statsmodels
+seaborn
